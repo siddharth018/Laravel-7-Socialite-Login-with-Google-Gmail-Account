@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.41.35%20PM.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/Laravel-7-Socialite-Login-with-Google-Gmail-Account/master/Google.png" width="100%">
 
 
-<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.41.23%20PM.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/Laravel-7-Socialite-Login-with-Google-Gmail-Account/master/login.png" width="100%">
 
 
-<img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.23.23%20PM.png" width="100%">
+<img src="https://raw.githubusercontent.com/siddharth018/Laravel-7-Socialite-Login-with-Google-Gmail-Account/master/G%20Dashboard.png" width="100%">
 
 Read More: https://realprogrammer.in/laravel-7-socialite-login-with-google-gmail-account/
 
