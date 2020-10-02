@@ -10,9 +10,9 @@ Read More: http://realprogrammer.in/laravel-8-socialite-login-with-google/
 
 <h2>Step 1: download in your system.</h2>  
 
-git clone https://github.com/siddharth018/googleLogin.git
+git clone https://github.com/siddharth018/Laravel-7-Socialite-Login-with-Google-Gmail-Account.git
 
-    cd googleLogin
+    cd Laravel-7-Socialite-Login-with-Google-Gmail-Account
 
 <h2>Step 2: Configure your database from .env file</h2> 
 

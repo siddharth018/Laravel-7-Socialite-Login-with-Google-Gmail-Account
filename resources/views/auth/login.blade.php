@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Laravel 6 - Login with Google Account Example - ItSolutionStuuf.com</div>
+                <div class="card-header">Laravel 7 Login</div>
   
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
@@ -63,8 +63,8 @@
                                     </a>
                                 @endif
                                   
-                                <a href="{{ url('auth/google') }}" style="margin-top: 20px;" class="btn btn-lg btn-success btn-block">
-                                  <strong>Login With Google</strong>
+                                <a href="{{ url('auth/google') }}" style="margin-top: 20px;" class="btn btn-sm btn-block">
+                                <img src="https://support.clever.com/hc/article_attachments/360054105332/google.png" style="width: 59%;text-align: left;padding-right: 12px;">
                                 </a> 
                             </div>
                         </div>
