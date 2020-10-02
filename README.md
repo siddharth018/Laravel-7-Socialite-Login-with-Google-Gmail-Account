@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/siddharth018/googleLogin/master/Screenshot%202020-10-01%20at%208.23.23%20PM.png" width="100%">
 
-Read More: http://realprogrammer.in/laravel-8-socialite-login-with-google/
+Read More: https://realprogrammer.in/laravel-7-socialite-login-with-google-gmail-account/
 
 <h2>Step 1: download in your system.</h2>  
 
